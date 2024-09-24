@@ -1,5 +1,6 @@
 # UI-UX-Shopping-App
 UI/UX Design Prototype for a shopping app with shopping cart functionality.
+https://www.figma.com/proto/pZWvHhvX5fs3oGXW5Nqfcu/Assignment-3-Demo?node-id=15-808&node-type=canvas&t=sZhhEGeNfHSDd64J-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1 
 
 ## Shopping Page
 
